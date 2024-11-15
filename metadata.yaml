@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '39352'
     url: http://www.gutenberg.org/2009/agents/39352
     wikipedia: https://en.wikipedia.org/wiki/Henry_Stanley,_3rd_Baron_Stanley_of_Alderley
+covers:
+- cover_type: archival
+  image_path: 74723-h/images/cover.jpg
 creator:
   author:
     agent_name: Pigafetta, Antonio
     gutenberg_agent_id: '41908'
     url: http://www.gutenberg.org/2009/agents/41908
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74723#The-first-voyage-round-the-world-by-Magellan-b-translated-from-the-accounts-of-Pigafetta-and-_
 gutenberg_issued: '2024-11-11'
 gutenberg_type: Text
 identifiers:
